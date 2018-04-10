@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 964d9fa801ba340ac8cf8e9aa914b2c4
+timeCreated: 1486633606
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _pointerCookieShader: {fileID: 4800000, guid: 1a7b1de93a2df49099502e89fad9c81e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
