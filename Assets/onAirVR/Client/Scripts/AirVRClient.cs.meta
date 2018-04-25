@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5e7700deef14541c382d6ddd301b0739
+timeCreated: 1435842383
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - frameRenderMesh: {fileID: 4300002, guid: c5d681852db054c16bef2d1eb5c0053f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
